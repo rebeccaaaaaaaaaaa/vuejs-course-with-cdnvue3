@@ -16,4 +16,4 @@ Curso de Vue 3 começando pelos conceitos básicos. Nesse repo voce vai encontra
 
 - Para aplicação dos conceitos foi utilizado uma dinamica de carrinho de compras de fast food.
   
-<img src="" alt="Preview da Aplicação"/>
+<img src="https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/vuejs-course-with-cdnvue3/main/img/preview.png" alt="Preview da Aplicação"/>
